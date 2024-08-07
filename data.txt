@@ -1,0 +1,9 @@
+name: Sonia Tuuk
+email: ....@gmail.com
+address: Bumi
+date: 2024-07-06
+file: 
+number: -
+password: tess
+==============
+
